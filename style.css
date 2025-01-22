@@ -121,6 +121,11 @@ ul li span:hover{
     .container {
         width: 130%;
         min-height: 130vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding-left: 98px;
+        padding-bottom: 200px;
     }
     .todo-app {
         padding: 20px; 
